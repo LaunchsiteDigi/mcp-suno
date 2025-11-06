@@ -1,7 +1,3 @@
-Perfect 👍 Here’s your English GitHub-ready README.md version — formatted professionally for clarity, Markdown style, and developer usability:
-
-⸻
-
 🎵 Suno Music Generator MCP Server
 
 A Model Context Protocol (MCP)-based server that allows you to generate music using the Suno API through tool calls.
